@@ -1,1 +1,4 @@
 Gitの開始
+
+git add
+git commit
