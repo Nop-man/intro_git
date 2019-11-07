@@ -1,6 +1,5 @@
 Gitの開始
-
-git add
+test
+git addd
 git commit
 
-git remove
